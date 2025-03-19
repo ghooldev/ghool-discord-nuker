@@ -10,3 +10,6 @@ The Best Nuker tool on the market!
 - Change Server Name
 - Change Server Icon
 - Kick Members
+- Delete Webhooks
+- Create Roles
+- Delete Roles
